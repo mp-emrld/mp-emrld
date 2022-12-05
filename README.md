@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mp-emrld
-- 👀 I’m interested in pyhton and kayaking
+- 👀 I’m interested in Python and kayaking
 - 🌱 I’m currently learning machine learning and kayak roling
 
 <!---
